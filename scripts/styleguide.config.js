@@ -88,6 +88,7 @@ const allSections = [
             '../src/components/search-form/SearchForm.js',
             '../src/components/section/Section.js',
             '../src/components/select/Select.js',
+            '../src/components/sidebar/Sidebar.js',
             '../src/components/select-field/MultiSelectField.js',
             '../src/components/select-field/SingleSelectField.js',
             '../src/components/selector-dropdown/SelectorDropdown.js',
